@@ -1,0 +1,106 @@
+/* Inserta tu código aquí */
+header{
+
+	margin-bottom:-20px;
+}
+section{
+	margin-bottom:-10px;
+}
+.navbar{
+	background-color:#DF013A;
+    border-color:#DF013A;
+	margin-bottom:0px;
+}
+
+.navbar-default .navbar-brand{
+	color:#F3E2A9;
+}
+
+.navbar-default .navbar-nav>li>a{
+	color:#F3E2A9;
+}
+
+.primera-seccion:hover {
+}
+/* section 1 */
+.primera-seccion{
+	background-image:url(../img/creamy.jpg);
+	background-position: center;
+	background-repeat:no-repeat;
+	height:530px; 
+	
+}
+.tex-Creamy{
+	padding:190px;
+	color:#ffffff;
+}
+
+.tex-oh{
+	padding-top:50px;
+	color:#DF013A;
+	
+}
+.tex-oh2{
+	color:#DF013A;
+	
+}
+
+.img1-helado{
+	padding-top:30px;
+	padding-bottom:30px;
+	width:80%;
+	
+}
+
+/* section 2 */
+.segunda-seccion{
+	background-color:#F3E2A9;
+	height:100%;
+	padding-bottom:30px;
+}
+
+/* section 3 */
+
+.tercera-seccion{
+	background-color:#DF013A;
+	height:230px;
+}
+
+.tex-about{
+	color:#F3E2A9;
+	padding-top:40px;
+	padding-bottom:50px;
+}
+
+/* section 4 */
+.cuarta-seccion{
+    background-color:#F3E2A9;
+	height:100%;
+}
+.icons{
+	padding:60px;
+	color:#DF013A;
+}
+
+.fa-desktop{
+    font-size:60px;
+}
+
+.fa-tag{
+    font-size:60px;
+}
+
+.fa-heart{
+    font-size:60px;	
+}
+
+/* footer */
+.bac-footer{
+	height:60px;
+	background-color:#DF013A;
+}
+
+.laboratoria{
+    color:#F3E2A9;
+}
+
