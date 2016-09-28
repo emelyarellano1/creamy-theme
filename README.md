@@ -3,11 +3,10 @@
 ## Hola de nuevo 
  
 
- #### Lita loca:
+#### Lita loca:
 
  * numero 4
  * la vida 
  * hola
 
  # Este es un enlace [ir a laboratoria](http://www.laboratoria.cl)
- 
